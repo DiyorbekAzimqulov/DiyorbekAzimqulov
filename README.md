@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiyorbekAzimqulov
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning DevOps and Cloud
-- 📫 How to reach me azimqulovdiyorbek@gmaio.com
+- 📫 How to reach me azimqulovdiyorbek@gmail.com
 
 <!---
 DiyorbekAzimqulov/DiyorbekAzimqulov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
